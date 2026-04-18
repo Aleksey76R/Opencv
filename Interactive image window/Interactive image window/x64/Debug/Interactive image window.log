@@ -1,0 +1,3 @@
+﻿  main.cpp
+ImageProcessor.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  Interactive image window.vcxproj -> C:\Users\user\Desktop\project\Interactive image window\x64\Debug\Interactive image window.exe
