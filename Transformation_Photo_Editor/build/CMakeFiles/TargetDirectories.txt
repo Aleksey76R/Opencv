@@ -1,0 +1,9 @@
+C:/Users/user/Desktop/Progect_Opencv/Transformation_Photo_Editor/build/CMakeFiles/Experimental.dir
+C:/Users/user/Desktop/Progect_Opencv/Transformation_Photo_Editor/build/CMakeFiles/Nightly.dir
+C:/Users/user/Desktop/Progect_Opencv/Transformation_Photo_Editor/build/CMakeFiles/Continuous.dir
+C:/Users/user/Desktop/Progect_Opencv/Transformation_Photo_Editor/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/user/Desktop/Progect_Opencv/Transformation_Photo_Editor/build/CMakeFiles/Transformation_Photo_Editor.dir
+C:/Users/user/Desktop/Progect_Opencv/Transformation_Photo_Editor/build/CMakeFiles/PACKAGE.dir
+C:/Users/user/Desktop/Progect_Opencv/Transformation_Photo_Editor/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/user/Desktop/Progect_Opencv/Transformation_Photo_Editor/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/Desktop/Progect_Opencv/Transformation_Photo_Editor/build/CMakeFiles/ZERO_CHECK.dir
