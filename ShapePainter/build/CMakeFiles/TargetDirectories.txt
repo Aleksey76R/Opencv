@@ -1,0 +1,9 @@
+C:/Users/user/Desktop/Progect_Opencv/ShapePainter/build/CMakeFiles/Experimental.dir
+C:/Users/user/Desktop/Progect_Opencv/ShapePainter/build/CMakeFiles/Nightly.dir
+C:/Users/user/Desktop/Progect_Opencv/ShapePainter/build/CMakeFiles/Continuous.dir
+C:/Users/user/Desktop/Progect_Opencv/ShapePainter/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/user/Desktop/Progect_Opencv/ShapePainter/build/CMakeFiles/ShapePainter.dir
+C:/Users/user/Desktop/Progect_Opencv/ShapePainter/build/CMakeFiles/PACKAGE.dir
+C:/Users/user/Desktop/Progect_Opencv/ShapePainter/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/user/Desktop/Progect_Opencv/ShapePainter/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/Desktop/Progect_Opencv/ShapePainter/build/CMakeFiles/ZERO_CHECK.dir
