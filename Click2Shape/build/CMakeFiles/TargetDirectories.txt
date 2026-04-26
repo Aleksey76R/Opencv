@@ -1,0 +1,9 @@
+C:/Users/user/Desktop/Progect_Opencv/Click2Shape/build/CMakeFiles/Experimental.dir
+C:/Users/user/Desktop/Progect_Opencv/Click2Shape/build/CMakeFiles/Nightly.dir
+C:/Users/user/Desktop/Progect_Opencv/Click2Shape/build/CMakeFiles/Continuous.dir
+C:/Users/user/Desktop/Progect_Opencv/Click2Shape/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/user/Desktop/Progect_Opencv/Click2Shape/build/CMakeFiles/Click2Shape.dir
+C:/Users/user/Desktop/Progect_Opencv/Click2Shape/build/CMakeFiles/PACKAGE.dir
+C:/Users/user/Desktop/Progect_Opencv/Click2Shape/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/user/Desktop/Progect_Opencv/Click2Shape/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/Desktop/Progect_Opencv/Click2Shape/build/CMakeFiles/ZERO_CHECK.dir
