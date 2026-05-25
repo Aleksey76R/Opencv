@@ -1,15 +1,12 @@
 #include <opencv2/opencv.hpp>
 #include <opencv2/calib3d.hpp>
 #include <iostream>
-#include <vector>
+#include <vector> 
 
-using namespace std;
-using namespace cv;
-
-const Size BOARD_SIZE(9, 6);
+const cv::Size BOARD_SIZE(9, 6);
 const int RADIUS = 6;
 
-Scalar getRainbowColor(int index, int total)
+cv::Scalar getRainbowColor(int index, int total)
 {
     double hue = (double)index / total * 180.0;
     cv::Mat hsv(1, 1, CV_8UC3, cv::Scalar(hue, 255, 255));
